@@ -1,0 +1,60 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为请求参数，包括不限于网址、请求头、响应头、COOKIE、Referer、UserAgent",
+        " *   本文件仅为记录详细请求参数便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "directory": "www-qmdaxq9a32-top-ifehnn4o",
+    "options": {
+        "url": "https://www.qmdaxq9a32.top/Mho5vJVbBKP/gHu9u4HTgF-1/",
+        "index": "index.html",
+        "domain": "www.qmdaxq9a32.top",
+        "origin": "https://www.qmdaxq9a32.top",
+        "ipaddress": "104.21.26.243",
+        "originURL": "https://www.qmdaxq9a32.top/Mho5vJVbBKP/gHu9u4HTgF-1/",
+        "filenameGenerator": "byType",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "date": "Fri, 28 May 2021 10:53:40 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Tue, 26 Jan 2021 12:31:06 GMT",
+                "vary": "Accept-Encoding",
+                "cf-cache-status": "DYNAMIC",
+                "cf-request-id": "0a5434d0bc0000d9c89fafe000000001",
+                "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v2?s=VboGWPmWMq%2FeHYlhOL91j7uARL2r4msTiOvYMpFfCEd6S2vKtVyx6FJJCE0fGpiTaYIQblBVA%2FiGpsfa1GzjzNqh5V%2BGiyi0t0X2xTlQOYP3CEV427Oq1VsVbmI1vC4A\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "6566f0c79d4bd9c8-SIN",
+                "content-encoding": "gzip",
+                "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        }
+    },
+    "user": {
+        "isWhite": false
+    },
+    "formatter": [
+        "saveOriginal"
+    ],
+    "time": {
+        "start": 1622199217078,
+        "end": 1622199239295,
+        "spend": 22.217
+    }
+}
