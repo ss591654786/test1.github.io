@@ -1,6 +1,6 @@
 [[redirects]]
   from = "https://edtest1.netlify.app/"
-  to = "https://www.goodle.com/:splat 302 "
+  to = "https://www.goodle.com/ "
   force = false
   conditions = {Country = ["US"]}
   
