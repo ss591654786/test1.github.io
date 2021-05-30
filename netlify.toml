@@ -2,6 +2,6 @@
   from = "https://edtest1.netlify.app/"
   to = "https://www.google.com/ "
   force = true
-  conditions = {Country = not ["US"]}
+  conditions = {Country !=  ["US"]}
 
   
