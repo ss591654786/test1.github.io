@@ -1,3 +1,1 @@
- from = "https://edtest1.netlify.app"
-  to = "https://baidu.com"
-  status = 302
+/google http://google.com
