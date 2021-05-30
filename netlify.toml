@@ -1,5 +1,6 @@
 [[redirects]]
-  from = "/*"
-  to = "http://google.com/"
+  from = "https://edtest1.netlify.app/*"
+  to = "https://www.goodle.com/:splat 302 "
   force = false
-  conditions = { Country = ["US"]}
+  conditions = {Country = ["US"]}
+  
