@@ -1,1 +1,1 @@
-/google http://google.com
+/google/* http://google.com 302
