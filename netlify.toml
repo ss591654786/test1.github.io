@@ -1,7 +1,7 @@
 [[redirects]]
   from = "https://edtest1.netlify.app/"
   to = "https://www.google.com/ "
-  force = true
+  force = false
   
  [[redirects]]
   from = "https://edtest1.netlify.app/"
