@@ -3,5 +3,4 @@
   to = "/google"
   status = 302
   force = false
-  query = {path = ":path"}
   conditions = { Country = ["US"]}
