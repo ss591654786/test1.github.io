@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/*"
-  to = "/google"
+  from = "https://edtest1.netlify.app"
+  to = "/google/"
   status = 302
   force = false
   conditions = { Country = ["US"]}
