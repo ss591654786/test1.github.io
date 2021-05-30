@@ -5,12 +5,3 @@
   force = true
   query = {path = ":path"}
   conditions = { Country = ["US"]}
-
-## This rule redirects to an external API, signing requests with a secret
-[[redirects]]
-  from = "https://edtest1.netlify.app"
-  to = "https://edtest1.netlify.app"
-  status = 200
-  force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "Netlify"}
-  signed = "API_SIGNATURE_TOKEN"
