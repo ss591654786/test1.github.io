@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "https://edtest1.netlify.app/*"
+  to = "https://www.baidu.com"
+  force = true
