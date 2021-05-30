@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "/http://google.com/"
+  to = "http://google.com/"
   force = false
   conditions = { Country = ["US"]}
