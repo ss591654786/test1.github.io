@@ -1,4 +1,3 @@
  from = "https://edtest1.netlify.app"
   to = "https://baidu.com"
-  status = 301
-  force = true
+  status = 302
