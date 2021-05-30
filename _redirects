@@ -1,1 +1,1 @@
-/google/* http://google.com 302
+/google/* http://google.com/:splat 302
