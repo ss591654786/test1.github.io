@@ -1,7 +1,16 @@
 [[redirects]]
-  from = "https://edtest1.netlify.app/*"
-  to = "https://www.baidu.com"
-  states = 301
+  from = "/old-path"
+  to = "/new-path"
+  status = 301
   force = false
   query = {path = ":path"}
-  conditions = {Country = US}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
+
+## This rule redirects to an external API, signing requests with a secret
+[[redirects]]
+  from = "/search"
+  to = "https://api.mysearch.com"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+  signed = "API_SIGNATURE_TOKEN"
