@@ -3,4 +3,5 @@
   to = "https://www.baidu.com"
   states = 301
   force = false
+  query = {path = ":path"}
   conditions = {Country = US}
