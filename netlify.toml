@@ -3,4 +3,4 @@
   to = "https://www.baidu.com"
   states = 302
   force = false
-  conditions = {Country = [US] }
+  conditions = {Country = [US]}
