@@ -1,7 +1,7 @@
 [[redirects]]
   from = "/*"
-  to = "https://google.com"
-  status = 301
+  to = "/google"
+  status = 302
   force = false
   query = {path = ":path"}
   conditions = { Country = ["US"]}
