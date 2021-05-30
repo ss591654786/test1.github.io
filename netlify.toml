@@ -1,7 +1,4 @@
 [[redirects]]
   from = "https://edtest1.netlify.app"
   to = "https://google.com"
-  status = 301
   force = true
-  query = {path = ":path"}
-  conditions = { Country = ["US"]}
