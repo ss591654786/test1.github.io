@@ -1,6 +1,6 @@
 [[redirects]]
   from = "https://edtest1.netlify.app/"
   to = "https://www.google.com/ "
-  force = false
+  force = ture
   conditions = {Country = ["US"]}
   
